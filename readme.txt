@@ -5,7 +5,7 @@ Tags: game, games, post, posts, page, pages, shortcode, fun, pacman, backgammon,
 Requires at least: 3.5
 License: GPL v2
 Tested up to: 4.1
-Stable tag: 2.2.0
+Stable tag: 2.1.0
 
 Display up to 45 free HD Games in your website easily using shortcodes. Arcade games like Mario, Solitaire, Backgammon, Chess & more.
 
