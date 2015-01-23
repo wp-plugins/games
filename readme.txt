@@ -11,13 +11,13 @@ Display up to 45 free HD Games in your website easily using shortcodes. Arcade g
 
 == Description ==
 
-Display free HD Games in your website easily using single shortcode for each game.
+Display up to 45 free HD Games in your website easily using shortcode(s).
 
 * You can display each game individually on each post or page.
 
 = Available Games =
 
-Our plugin is new and we have over 45+ quality games + we will be adding fresh games daily!
+
 
 * Backgammon
 
