@@ -7,17 +7,17 @@ License: GPL v2
 Tested up to: 4.1
 Stable tag: 2.1.0
 
-Display up to 45 free HD Games in your website easily using shortcodes. Arcade games like Mario, Solitaire, Backgammon, Chess & more.
+Display free HD Games in your website easily using shortcodes. Arcade games like Mario, Solitaire, Backgammon, Chess & more.
 
 == Description ==
 
-Display up to 45 free HD Games in your website easily using shortcode(s).
+Display free HD Games in your website easily using single shortcode(s).
 
 * You can display each game individually on each post or page.
 
-= Available Games =
+= Available Games - 45 =
 
-
+* This is a new plugin, so we will be adding games every day!
 
 * Backgammon
 
