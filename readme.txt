@@ -18,6 +18,7 @@ Display up to 45 free HD Games in your website easily using shortcode(s).
 = Available Games =
 
 
+
 * Backgammon
 
 * Chess
@@ -105,7 +106,8 @@ Display up to 45 free HD Games in your website easily using shortcode(s).
 
 == Screenshots ==
 
-1. Settings Games Page
+1. Settings Games Page 1
+2. Settings Games Page 2
 
 == Installation ==
 
