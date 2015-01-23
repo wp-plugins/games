@@ -7,7 +7,7 @@ License: GPL v2
 Tested up to: 4.1
 Stable tag: 2.1.0
 
-Display up to 45 free HD Games in your website easily using shortcodes. Arcade games like Mario, Backgammon, Chess & more.
+Display up to 45 free HD Games in your website easily using shortcodes. Arcade games like Mario, Solitaire, Backgammon, Chess & more.
 
 == Description ==
 
