@@ -17,48 +17,91 @@ Display up to 45 free HD Games in your website easily using shortcode(s).
 
 = Available Games =
 
+
 *Backgammon
+
 *Chess
+
 *Tom & Jerry Puzzle
+
 *Sonic The Hedgehog
+
 *Spider Man 3
+
 *Twisted Tennis
+
 *Rainforest Solitaire
+
 *Governor of Poker 2
+
 *Pokemon Tower Defense
+
 *Car Twisted Dreams
+
 *Pacman
+
 *Dragonball 1
+
 *Happy Wheels
+
 *Mahjong
+
 *Ninja Battle 3
+
 *Fall Time Sudoku
+
 *Call of Duty Crossfire
+
 *Batman Defend Gotham
+
 *Royal Reels
+
 *Gold Diggers
+
 *Ghouls Gold
+
 *Three Wishes
+
 *Heist
+
 *Viking Age
+
 *Boomanji
+
 *Gladiator
+
 *Rock Star
+
 *Lost
+
 *Upon a Time
+
 *Pharaoh King
+
 *True Illusions
+
 *Mad Scientist
+
 *House of Fun
+
 *Gypsy Rose
+
 *At the Copa
+
 *A Night in Paris
+
 *After Night Falls
+
 *Under The Bed
+
 *Tycoons
+
 *The True Sheriff
+
 *Safari Sam
+
 *Puppy Love
+
 
 == Screenshots ==
 
