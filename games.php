@@ -2,9 +2,9 @@
     /*
     Plugin Name: Games
     Plugin URI: http://critic.net/wp-plugin/
-    Description: Display up to 45 free HD Games in your website easily using unique shortcodes. Arcade games like Mario, Solitaire, Backgammon, Chess & more.
+    Description: Display up to 45 free HD Games in your website easily using single shortcodes. Arcade games like Mario, Sonic, Solitaire, Backgammon, Chess & much more.
     Author: Critic Games
-    Version: 2.1
+    Version: 2.2
     Author URI: http://critic.net/wp-plugin/
     */
 
