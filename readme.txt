@@ -18,89 +18,89 @@ Display up to 45 free HD Games in your website easily using shortcode(s).
 = Available Games =
 
 
-*Backgammon
+* Backgammon
 
-*Chess
+* Chess
 
-*Tom & Jerry Puzzle
+* Tom & Jerry Puzzle
 
-*Sonic The Hedgehog
+* Sonic The Hedgehog
 
-*Spider Man 3
+* Spider Man 3
 
-*Twisted Tennis
+* Twisted Tennis
 
-*Rainforest Solitaire
+* Rainforest Solitaire
 
-*Governor of Poker 2
+* Governor of Poker 2
 
-*Pokemon Tower Defense
+* Pokemon Tower Defense
 
-*Car Twisted Dreams
+* Car Twisted Dreams
 
-*Pacman
+* Pacman
 
-*Dragonball 1
+* Dragonball 1
 
-*Happy Wheels
+* Happy Wheels
 
-*Mahjong
+* Mahjong
 
-*Ninja Battle 3
+* Ninja Battle 3
 
-*Fall Time Sudoku
+* Fall Time Sudoku
 
-*Call of Duty Crossfire
+* Call of Duty Crossfire
 
-*Batman Defend Gotham
+* Batman Defend Gotham
 
-*Royal Reels
+* Royal Reels
 
-*Gold Diggers
+* Gold Diggers
 
-*Ghouls Gold
+* Ghouls Gold
 
-*Three Wishes
+* Three Wishes
 
-*Heist
+* Heist
 
-*Viking Age
+* Viking Age
 
-*Boomanji
+* Boomanji
 
-*Gladiator
+* Gladiator
 
-*Rock Star
+* Rock Star
 
-*Lost
+* Lost
 
-*Upon a Time
+* Upon a Time
 
-*Pharaoh King
+* Pharaoh King
 
-*True Illusions
+* True Illusions
 
-*Mad Scientist
+* Mad Scientist
 
-*House of Fun
+* House of Fun
 
-*Gypsy Rose
+* Gypsy Rose
 
-*At the Copa
+* At the Copa
 
-*A Night in Paris
+* A Night in Paris
 
-*After Night Falls
+* After Night Falls
 
-*Under The Bed
+* Under The Bed
 
-*Tycoons
+* Tycoons
 
-*The True Sheriff
+* The True Sheriff
 
-*Safari Sam
+* Safari Sam
 
-*Puppy Love
+* Puppy Love
 
 
 == Screenshots ==
