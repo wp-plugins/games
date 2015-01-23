@@ -19,7 +19,6 @@ Display free HD Games in your website easily using single shortcode for each gam
 
 Our plugin is new and we have over 45+ quality games + we will be adding fresh games daily!
 
-
 * Backgammon
 
 * Chess
