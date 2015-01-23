@@ -77,7 +77,7 @@
 
     <div class="wgames-support-click-title wgames-support-click-common" id="wgames_support_title_1">Thank you for using
         <a href="<?php  $url = admin_url();
-        echo $url . 'options-general.php?page=critic-games-plugin-menu';?>">Critic Games</a>,  if you enjoy our plugin please activate the author link credit by clicking
+        echo $url . 'options-general.php?page=critic-plugin-menu';?>">Critic Games</a>,  if you enjoy our plugin please activate the author link credit by clicking
         <a href="#" id="wgames-notice-support-click"> OK.</a>
 
     </div>
