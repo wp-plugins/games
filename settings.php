@@ -18,51 +18,136 @@
 			</div>
 		</div>
 <br />
-<font size="2">Arcade Games</font>	<table style="width:100%;"  class="tg"><tr>
-	<td>Tom & Jerry Puzzle</td>
-	<td>Sonic The Hedgehog</td>
-	<td>Spider Man 3</td>
+
+<font size="2">Sports Games</font>	<table style="width:100%;"  class="tg">
+<tr>
+	<td>BackYard Sports</td>
+	<td>Baseball Team</td>
+	<td>Bicycle Run</td>
+    <td>Billiards</td>
+
 	</tr>
 	<tr>
-	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/tom-and-jerry-spin-puzzle.png'; ?>" /></td>
-	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/sonic-the-hedgehog.png'; ?>" /></td>
-	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/spider-man-3.png'; ?>" /></td>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/backyard-sports.jpg'; ?>" /></td>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/baseball-team.jpg'; ?>" /></td>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/bicycle-run.jpg'; ?>" /></td>
+		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/billiards-master-pro.jpg'; ?>" /></td>
+
 	</tr>
 	<tr>
-	<td><strong>Shortcode:</strong> [tomandjerrypuzzle]</td>
-	<td><strong>Shortcode:</strong> [sonic1]</td>
-	<td><strong>Shortcode:</strong> [spiderman3]</td>
+	<td><strong>Shortcode:</strong> [backyardsports]</td>
+	<td><strong>Shortcode:</strong> [baseballteam]</td>
+	<td><strong>Shortcode:</strong> [bicyclerun]</td>
+	<td><strong>Shortcode:</strong> [billiards]</td>
+
 	</tr>
 
 	<br />
+	
+	<tr>
+	<td>BMX Extreme</td>
+	<td>Construction Bike</td>
+	<td>Court Basketball</td>
+		<td>Lake Fishing</td>
 
-	<td>Twisted Tennis</td>
-	<td>Rainforest Solitaire</td>
-	<td>Governor of Poker 2</td>
 	</tr>
 	<tr>
-	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/twisted-tennis.png'; ?>" /></td>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/bmx-extreme.jpg'; ?>" /></td>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/construction-yard-bike.jpg'; ?>" /></td>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/hardcourt-basketball.jpg'; ?>" /></td>
+		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/lake-fishing.png'; ?>" /></td>
+
+	</tr>
+	<tr>
+	<td><strong>Shortcode:</strong> [bmxextreme]</td>
+	<td><strong>Shortcode:</strong> [constructionbike]</td>
+	<td><strong>Shortcode:</strong> [courtbasketball]</td>
+		<td><strong>Shortcode:</strong> [lakefishing]</td>
+
+	</tr>
+
+	<br />
+	
+	<tr>
+	<td>Pinch Hitter 2</td>
+	<td>Snooker</td>
+	<td>Sprinter</td>
+	<td>Twisted Tennis</td>
+
+	</tr>
+	<tr>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/pinch-hitter-2.jpg'; ?>" /></td>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/snooker.jpg'; ?>" /></td>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/sprinter.jpg'; ?>" /></td>
+		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/twisted-tennis.png'; ?>" /></td>
+
+	</tr>
+	<tr>
+	<td><strong>Shortcode:</strong> [pinch2]</td>
+	<td><strong>Shortcode:</strong> [snooker]</td>
+	<td><strong>Shortcode:</strong> [sprinter]</td>
+		<td><strong>Shortcode:</strong> [twistedtennis]</td>
+
+	</tr>
+
+	<br />
+	
+	<tr>
+	<td>Super Bike X</td>
+	<td>Table Hockey</td></td>
+	<td>Ultimate Baseball</td>
+		<td>WorldCup Penalty</td>
+
+	</tr>
+	<tr>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/super-bike-x.jpg'; ?>" /></td>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/table-hockey-extreme.jpg'; ?>" /></td>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/ultimate-baseball.jpg'; ?>" /></td>
+		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/world-cup-penalty.jpg'; ?>" /></td>
+
+	</tr>
+	<tr>
+	<td><strong>Shortcode:</strong> [superbikex]</td>
+	<td><strong>Shortcode:</strong> [tablehockey]</td>
+	<td><strong>Shortcode:</strong> [ultimatebaseball]</td>
+	<td><strong>Shortcode:</strong> [worldcuppenalty]</td>
+	</tr>
+</table><br /><br /><br />
+<font size="2">Arcade / Cards / Boards</font>	<table style="width:100%;"  class="tg">
+	<td>Rainforest Solitaire</td>
+	<td>Crescent Solitaire</td>
+		<td>FreeCell Grey</td>
+	<td>Governor of Poker 2</td>
+
+	</tr>
+	<tr>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/rainforest-solitaire.png'; ?>" /></td>
+		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/crescent-solitaire.png'; ?>" /></td>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/freecell-grey.png'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/governor-of-poker-2.png'; ?>" /></td>
 	</tr>
 	<tr>
-	<td><strong>Shortcode:</strong> [twistedtennis]</td>
 	<td><strong>Shortcode:</strong> [rainforestsolitaire]</td>
+		<td><strong>Shortcode:</strong> [crescentsol]</td>
+	<td><strong>Shortcode:</strong> [freecellgrey]</td>
 	<td><strong>Shortcode:</strong> [governorofpoker2]</td>
 	</tr>
 	<br />
 
 	<tr>
+	<td>Lightning</td>
 	<td>Pokemon Tower Defense</td>
 	<td>Car Twisted Dreams</td>
 	<td>Pacman</td>
 	</tr>
 	<tr>
+		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/lightning.png'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/pokemon-tower-defense.png'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/car-twisted-dreams.png'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/pacman.png'; ?>" /></td>
 	</tr>
 	<tr>
+	<td><strong>Shortcode:</strong> [lightning]</td>
 	<td><strong>Shortcode:</strong> [pokemon1]</td>
 	<td><strong>Shortcode:</strong> [cartwisteddreams]</td>
 	<td><strong>Shortcode:</strong> [pacman]</td>
@@ -72,51 +157,57 @@
 	<td>Dragonball 1</td>
 	<td>Happy Wheels</td>
 	<td>Mahjong</td>
+	<td>Solitaire Collection 12 Games</td>
 	</tr>
 	<tr>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/dragonball1.png'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/happy-wheels.png'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/mahjong.png'; ?>" /></td>
+		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/solitaire-collection.png'; ?>" /></td>
+
 	</tr>
 	<tr>
 	<td><strong>Shortcode:</strong> [dragonball1]</td>
 	<td><strong>Shortcode:</strong> [happywheels]</td>
 	<td><strong>Shortcode:</strong> [mahjong]</td>
+		<td><strong>Shortcode:</strong> [solcollection]</td>
+
 	</tr>
 	<br />
 	<tr>
 	<td>Ninja Battle 3</td>
-	<td>Fall Time Sudoku</td>
+	<td>Batman Defend Gotham</td>
 	<td>Call of Duty Crossfire</td>
 	</tr>
 	<tr>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/ninja-battle-3.png'; ?>" /></td>
-	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/fall-time-sudoku.png'; ?>" /></td>
+		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/batman-defend-gotham.png'; ?>" /></td>
+
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/call-of-duty-crossfire.png'; ?>" /></td>
 	</tr>
 	<tr>
 	<td><strong>Shortcode:</strong> [ninjabattle3]</td>
-	<td><strong>Shortcode:</strong> [falltimesudoku]</td>
+	<td><strong>Shortcode:</strong> [batmandefendgotham]</td>
 	<td><strong>Shortcode:</strong> [codcrossfire]</td>
 	</tr>
 
 	<br />
 	<tr>
-	<td>Batman Defend Gotham</td>
+		<td>Fall Time Sudoku</td>
 	<td>Backgammon</td>
 	<td>Chess</td>
 	</tr>
 	<tr>
-	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/batman-defend-gotham.png'; ?>" /></td>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/fall-time-sudoku.png'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/backgammon.png'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/chess.png'; ?>" /></td>
 	</tr>
 	<tr>
-	<td><strong>Shortcode:</strong> [batmandefendgotham]</td>
+	<td><strong>Shortcode:</strong> [falltimesudoku]</td>
 	<td><strong>Shortcode:</strong> [backgammon]</td>
 	<td><strong>Shortcode:</strong> [chess]</td>
 	</tr>
-	</table><br />
+	</table><br /><br /><br /><br />
 <font size="2">HD Games</font><table style="width:100%;"  class="tg"><tr>
 	<td>Royal Reels</td>
 	<td>Gold Diggers</td>

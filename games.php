@@ -2,11 +2,207 @@
     /*
     Plugin Name: Games
     Plugin URI: http://critic.net/wp-plugin/
-    Description: Display up to 45 free HD Games in your website easily using unique shortcodes. Arcade games like Mario, Solitaire, Backgammon, Chess & more.
+    Description: Display up to 65 free HD Games in your website easily using unique shortcodes. Arcade games like Mario, Backgammon, Chess & more.
     Author: Critic Games
-    Version: 2.1
+    Version: 2.2
     Author URI: http://critic.net/wp-plugin/
     */
+
+add_shortcode('backyardsports', 'backyardsports');
+add_shortcode('baseballteam', 'baseballteam');
+add_shortcode('bicyclerun', 'bicyclerun');
+add_shortcode('billiards', 'billiards');
+add_shortcode('bmxextreme', 'bmxextreme');
+add_shortcode('constructionbike', 'constructionbike');
+add_shortcode('crescentsol', 'crescentsol');
+add_shortcode('freecellgrey', 'freecellgrey');
+add_shortcode('lakefishing', 'lakefishing');
+add_shortcode('courtbasketbal', 'courtbasketbal');
+add_shortcode('lightning', 'lightning');
+add_shortcode('pinch2', 'pinch2');
+add_shortcode('snooker', 'snooker');
+add_shortcode('solcollection', 'solcollection');
+add_shortcode('spidersol', 'spidersol');
+add_shortcode('sprinter', 'sprinter');
+add_shortcode('superbikex', 'superbikex');
+add_shortcode('tablehockey', 'tablehockey');
+add_shortcode('ultimatebaseball', 'ultimatebaseball');
+add_shortcode('worldcuppenalty', 'worldcuppenalty');
+
+function backyardsports(){
+?>
+<center><p><iframe name="Critic.net Backyard Sports" src="http://critic.net/game-backyard-sports" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: left;">Game hosted by <a href="http://critic.net/">http://critic.net/</a>.</div>' . "\n";
+}
+}
+
+function baseballteam(){
+?>
+<center><p><iframe name="Critic.net Baseball Team" src="http://critic.net/game-baseball-team" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: left;">Game hosted in <a href="http://critic.net/">http://critic.net/</a> : Baseball Team.</div>' . "\n";
+}
+}
+function bicyclerun(){
+?>
+<center><p><iframe name="Critic.net Bicycle Run" src="http://critic.net/game-bicycle-run" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: left;">Bicycle run hosted at <a href="http://critic.net/">http://critic.net/</a>.' . "\n";
+}
+}
+function billiards(){
+?>
+<center><p><iframe name="Critic.net Billiards" src="http://critic.net/game-billiards" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: right;">Billiards game is hosted by <a href="http://critic.net/free-arcade-games/">Critic Arcade</a>.</div>' . "\n";
+}
+}
+function bmxextreme(){
+?>
+<center><p><iframe name="Critic.net BMX Extreme" src="http://critic.net/game-bmx-extreme" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: center;">Game is hosted by <a href="http://critic.net/free-arcade-games/">Critic Arcade Games</a>.</div>' . "\n";
+}
+}
+
+
+function lakefishing(){
+?>
+<center><p><iframe name="Critic.net Lake Fishing" src="http://critic.net/game-lake-fishing" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: left;">Game hosted by <a href="http://critic.net/">http://critic.net/</a> - Lake Fishing.</div>' . "\n";
+}
+}
+
+function freecellgrey(){
+?>
+<center><p><iframe name="Critic.net Freecell Grey" src="http://critic.net/game-freecell-grey" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: center;">Hosted by <a href="http://critic.net/">http://critic.net/</a> - Freecell Game.</div>' . "\n";
+}
+}
+function crescentsol(){
+?>
+<center><p><iframe name="Critic.net Crescent Solitaire" src="http://critic.net/game-crescent-solitaire" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: left;">Game Hosted at <a href="http://critic.net/">http://critic.net/</a> - Crescent Solitaire.</div>' . "\n";
+}
+}
+
+function constructionbike(){
+?>
+<center><p><iframe name="Critic.net Construction Bike" src="http://critic.net/game-construction-bike" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: right;">Hosted for free by <a href="http://critic.net/">http://critic.net/</a> - Lake Fishing Game.</div>' . "\n";
+}
+}
+
+function worldcuppenalty(){
+?>
+<center><p><iframe name="Critic.net World Cup Penalty" src="http://critic.net/game-world-cup-penalty" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: center;">Free game hosted by <a href="http://critic.net/" target="_blank">http://critic.net/</a>.</div>' . "\n";
+}
+}
+function ultimatebaseball(){
+?>
+<center><p><iframe name="Critic.net Ultimate Baseball" src="http://critic.net/game-ultimate-baseball" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: center;">Ultimate Baseball game hosted by <a href="http://critic.net/">http://critic.net/</a>.</div>' . "\n";
+}
+}
+
+function tablehockey(){
+?>
+<center><p><iframe name="Critic.net Table Hockey" src="http://critic.net/game-table-hockey" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: right;">Table Hockey provided by <a href="http://critic.net/">Critic Games</a>.</div>' . "\n";
+}
+}
+
+function superbikex(){
+?>
+<center><p><iframe name="Critic.net Super Bike X" src="http://critic.net/game-super-bike-x" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: right;">Super Bike X is hosted free at <a href="http://critic.net" target="_blank">http://critic.net</a>.</div>' . "\n";
+}
+}
+
+function sprinter(){
+?>
+<center><p><iframe name="Critic.net Sprinter" src="http://critic.net/game-sprinter" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: left;">Free Sprinter Game hosted at <a href="http://critic.net" target="_blank">Critic.net</a>.</div>' . "\n";
+}
+}
+
+function spidersol(){
+?>
+<center><p><iframe name="Critic.net Spider Solitaire" src="http://critic.net/game-spider-solitaire" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: center;">Spider solitaire game provided by <a href="http://critic.net/">Critic games</a>.</div>' . "\n";
+}
+}
+
+function solcollection(){
+?>
+<center><p><iframe name="Critic.net Solitaire Collection" src="http://critic.net/game-solitaire-collection" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: right;">Free game hosted by <a href="http://critic.net/">critic.net</a>.</div>' . "\n";
+}
+}
+
+function snooker(){
+?>
+<center><p><iframe name="Critic.net Snooker" src="http://critic.net/game-snooker" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: left;">The snooker game is hosted via <a href="http://critic.net/">Critic Games</a>.</div>' . "\n";
+}
+}
+
+function pinch2(){
+?>
+<center><p><iframe name="Critic.net Pinch Hitter 2" src="http://critic.net/game-pinch-hitter-2" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: center;">Pinch Hitter 2 free game by <a href="http://critic.net/">http://critic.net/</a>.</div>' . "\n";
+}
+}
+
+function lightning(){
+?>
+<center><p><iframe name="Critic.net Lightning" src="http://critic.net/game-lightning" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: right;">Lightining game hosted free by <a href="http://critic.net">Critic.net</a>.</div>' . "\n";
+}
+}
+function courtbasketbal(){
+?>
+<center><p><iframe name="Critic.net Court Basketball" src="http://critic.net/game-court-basketball" style="background-color:#000" width="100%" height="550" marginwidth="0" marginheight="0" scrolling="no" border="0" frameborder="0"></iframe></p></center>
+<?php
+if (wgames_Main::$settings['wgames_author_linking'] == '1') {
+echo '<div style="text-align: left;">Court Basketball Game is hosted in <a href="http://critic.net/">critic.net</a>.</div>' . "\n";
+}
+}
 
 add_shortcode('pacman', 'pacman');
 add_shortcode('cartwisteddreams', 'cartwisteddreams');
