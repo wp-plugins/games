@@ -5,8 +5,20 @@
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 </style>
+<p>Get ready for more quality games. We will be adding new fresh games every week, so make sure you update our plugin.</p>
+<h3>Help to keep this plugin for free. Link to us - Say Thanks to Critic.NET from hosting the games for you.</h3>
+		<div class="form-group">
+			<label class="col-sm-1 control-label"></label>
+			<div class="col-sm-11">
+				<label style="width: 100%;">
 
-<font size="2">Most Popular Games</font>	<table style="width:100%;"  class="tg"><tr>
+					<input type="checkbox" onclick="wgames_click_credit_link();" id="wgames_author_linking" <?php echo wgames_Main::$settings['wgames_author_linking'] == 1? 'checked':'';?>>
+					Enable it and contribute to our free games project.
+				</label>
+			</div>
+		</div>
+<br />
+<font size="2">Arcade Games</font>	<table style="width:100%;"  class="tg"><tr>
 	<td>Tom & Jerry Puzzle</td>
 	<td>Sonic The Hedgehog</td>
 	<td>Spider Man 3</td>
@@ -234,18 +246,17 @@
 	</tr>
 	</table>
 	<br />
+<h3>Help to keep this plugin for free. Link to us - Say Thanks to Critic.NET from hosting the games for you.</h3>
+		<div class="form-group">
+			<label class="col-sm-1 control-label"></label>
+			<div class="col-sm-11">
+				<label style="width: 100%;">
 
-<h3>Link to the Author:</h3>
-    <div class="form-group">
-        <label class="col-sm-1 control-label"></label>
-        <div class="col-sm-11">
-            <label style="width: 100%;">
-
-                <input type="checkbox" onclick="wgames_click_credit_link();" id="wgames_author_linking" <?php echo wgames_Main::$settings['wgames_author_linking'] == 1? 'checked':'';?>>
-                Enable it.
-            </label>
-        </div>
-    </div>
+					<input type="checkbox" onclick="wgames_click_credit_link();" id="wgames_author_linking" <?php echo wgames_Main::$settings['wgames_author_linking'] == 1? 'checked':'';?>>
+					Enable it and contribute to our free games project.
+				</label>
+			</div>
+		</div>
 <p align="center">Thank you for using our free games plugin.</p>
 </div>
 </div>
