@@ -55,7 +55,7 @@
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/bmx-extreme.jpg'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/construction-yard-bike.jpg'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/hardcourt-basketball.jpg'; ?>" /></td>
-		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/lake-fishing.png'; ?>" /></td>
+		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/lake-fishing.jpg'; ?>" /></td>
 
 	</tr>
 	<tr>
@@ -122,8 +122,8 @@
 	</tr>
 	<tr>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/rainforest-solitaire.png'; ?>" /></td>
-		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/crescent-solitaire.png'; ?>" /></td>
-	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/freecell-grey.png'; ?>" /></td>
+		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/crescent-solitaire.jpg'; ?>" /></td>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/freecell-grey.jpg'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/governor-of-poker-2.png'; ?>" /></td>
 	</tr>
 	<tr>
@@ -141,7 +141,7 @@
 	<td>Pacman</td>
 	</tr>
 	<tr>
-		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/lightning.png'; ?>" /></td>
+		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/lightning.jpg'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/pokemon-tower-defense.png'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/car-twisted-dreams.png'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/pacman.png'; ?>" /></td>
@@ -163,7 +163,7 @@
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/dragonball1.png'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/happy-wheels.png'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/mahjong.png'; ?>" /></td>
-		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/solitaire-collection.png'; ?>" /></td>
+		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/solitaire-collection.jpg'; ?>" /></td>
 
 	</tr>
 	<tr>
