@@ -61,7 +61,7 @@
 	<tr>
 	<td><strong>Shortcode:</strong> [bmxextreme]</td>
 	<td><strong>Shortcode:</strong> [constructionbike]</td>
-	<td><strong>Shortcode:</strong> [courtbasketball]</td>
+	<td><strong>Shortcode:</strong> [courtbasketbal]</td>
 		<td><strong>Shortcode:</strong> [lakefishing]</td>
 
 	</tr>
@@ -349,5 +349,4 @@
 			</div>
 		</div>
 <p align="center">Thank you for using our free games plugin.</p>
-</div>
 </div>
