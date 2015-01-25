@@ -17,6 +17,8 @@ Display online games in your website easily in less than a minute.
 
 = The Games =
 
+Scroll until the end of the page to see what games are available.
+
 = Boards / Cards / Sports / Fantasy =
 
 * Backgammon
@@ -84,6 +86,12 @@ Display online games in your website easily in less than a minute.
 * Sprinter
 
 * Super Bike X
+
+* Super Mario Bros 2
+
+* Super Mario Land
+
+* Super Mario World
 
 * Table Hockey
 
