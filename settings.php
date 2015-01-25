@@ -120,7 +120,7 @@
 
 	</tr>
 	<tr>
-	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/super-mario-world.png'; ?>" /></td>
+	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/super-mario-world.jpg'; ?>" /></td>
 		<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/super-mario-land.jpg'; ?>" /></td>
 	<td><img src="<?php echo plugin_dir_url( __FILE__ ) . '/images/super-mario-bros.jpg'; ?>" /></td>
 	</tr>
