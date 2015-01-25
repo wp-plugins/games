@@ -1,7 +1,7 @@
 ﻿=== Online Games ===
 Contributors: Critic Team
 Donate link: http://critic.net/wp-plugin/
-Tags: game, games, post, posts, page, pages, shortcode, fun, pacman, backgammon, chess, sonic, spiderman, ninja, happy wheels, car, gladiator, lost, puzzle, sudoku, arcade, embed, pgn, critic, critic games
+Tags: game, games, post, posts, page, pages, shortcode, bike, cars, call of duty, dragonball, sport, sports, freecell, solitaire, mahjong, hockey, basketball, cards, fantasy, fun, pacman, backgammon, chess, sonic, spiderman, ninja, happy wheels, car, gladiator, lost, puzzle, sudoku, arcade, embed, pgn, critic, critic games
 Requires at least: 3.5
 License: GPL v2
 Tested up to: 4.1
@@ -11,97 +11,141 @@ Display up to 65 free HD Games in your website easily using shortcodes. Arcade g
 
 == Description ==
 
-Display up to 65 free HD Games in your website easily using shortcode(s).
+Display online games in your website easily in less than a minute.
 
-* You can display each game individually on each post or page.
+* You can display each game individually on each post or page using simple shortcode(s).
 
-= Available Games =
+= The Games =
 
-
+= Boards / Cards / Sports / Fantasy =
 
 * Backgammon
 
-* Chess
+* Backyard Sports
 
-* Tom & Jerry Puzzle
+* Baseball Team
 
-* Sonic The Hedgehog
+* Batman Defend Gotham
 
-* Spider Man 3
+* Bicycle Run
 
-* Twisted Tennis
+* Billiads
 
-* Rainforest Solitaire
+* BMX Extreme
 
-* Governor of Poker 2
-
-* Pokemon Tower Defense
+* Call of Duty Crossfire
 
 * Car Twisted Dreams
 
-* Pacman
+* Chess
+
+* Construction Bike
+
+* Court Basketball
+
+* Crescent Solitaire
 
 * Dragonball 1
 
+* Fall Time Sudoku
+
+* Freecell Grey
+
+* Governor of Poker 2
+
 * Happy Wheels
+
+* Lake Fishing
+
+* Lightning
 
 * Mahjong
 
 * Ninja Battle 3
 
-* Fall Time Sudoku
+* Pacman
 
-* Call of Duty Crossfire
+* Pinch Hitter 2
 
-* Batman Defend Gotham
+* Pokemon Tower Defense
 
-* Royal Reels
+* Rainforest Solitaire
 
-* Gold Diggers
+* Snooker
 
-* Ghouls Gold
+* Solitaire Collection
 
-* Three Wishes
+* Sonic The Hedgehog
 
-* Heist
+* Spider Man 3
 
-* Viking Age
+* Spider Solitaire
 
-* Boomanji
+* Sprinter
 
-* Gladiator
+* Super Bike X
 
-* Rock Star
+* Table Hockey
 
-* Lost
+* Tom & Jerry Puzzle
 
-* Upon a Time
+* Twisted Tennis
 
-* Pharaoh King
+* Ultimate Baseball
 
-* True Illusions
+* World Cup Penalty
 
-* Mad Scientist
 
-* House of Fun
+= HD Games =
 
-* Gypsy Rose
-
-* At the Copa
-
-* A Night in Paris
 
 * After Night Falls
 
-* Under The Bed
+* A Night in Paris
 
-* Tycoons
+* At the Copa
 
-* The True Sheriff
+* Boomanji
+
+* Ghouls Gold
+
+* Gladiator
+
+* Gold Diggers
+
+* Gypsy Rose
+
+* Heist
+
+* House of Fun
+
+* Lost
+
+* Mad Scientist
+
+* Pharaoh King
+
+* Puppy Love
+
+* Rock Star
+
+* Royal Reels
 
 * Safari Sam
 
-* Puppy Love
+* The True Sheriff
+
+* Three Wishes
+
+* True Illusions
+
+* Tycoons
+
+* Under The Bed
+
+* Upon a Time
+
+* Viking Age
 
 
 == Screenshots ==
