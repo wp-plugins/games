@@ -1,7 +1,7 @@
 ﻿=== Online Games ===
 Contributors: Critic Team
 Donate link: http://critic.net/wp-plugin/
-Tags: widget, arcade, html5, media, flash, puzzles, admin, ajax, content, sidebar, image, images, widgets, game, games, post, posts, page, pages, shortcode, bike, cars, call of duty, dragonball, sport, sports, freecell, solitaire, mahjong, hockey, basketball, cards, fantasy, fun, pacman, backgammon, chess, sonic, spiderman, ninja, happy wheels, car, gladiator, lost, puzzle, sudoku, arcade, embed, pgn, critic, critic games
+Tags: widget, arcade, html5, gaming, media, flash, puzzles, admin, ajax, content, sidebar, image, images, widgets, game, games, post, posts, page, pages, shortcode, bike, cars, call of duty, dragonball, sport, sports, freecell, solitaire, mahjong, hockey, basketball, cards, fantasy, fun, pacman, backgammon, chess, sonic, spiderman, ninja, happy wheels, car, gladiator, lost, puzzle, sudoku, arcade, embed, pgn, critic, critic games
 Requires at least: 3.5
 License: GPL v2
 Tested up to: 4.1
